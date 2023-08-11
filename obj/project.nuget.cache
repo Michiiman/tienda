@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5sX7xSwGFup849u8rYkIpd6esyO7rhsS6DDEzwlIDzdVzx7ri2FDtZ+/SDgASnZvSg1SS0jIegY/74xQhG78Q==",
+  "success": true,
+  "projectFilePath": "/home/apolt01-012/Documents/c#/tiendaCampus/tiendaCampus.csproj",
+  "expectedPackageFiles": [
+    "/home/apolt01-012/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

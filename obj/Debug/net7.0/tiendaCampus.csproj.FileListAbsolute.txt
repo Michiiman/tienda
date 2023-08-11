@@ -1,0 +1,17 @@
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/tiendaCampus
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/tiendaCampus.deps.json
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/tiendaCampus.runtimeconfig.json
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/tiendaCampus.dll
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/tiendaCampus.pdb
+/home/apolt01-012/Documents/c#/tiendaCampus/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.AssemblyReference.cache
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.AssemblyInfoInputs.cache
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.AssemblyInfo.cs
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.CoreCompileInputs.cache
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.CopyComplete
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.dll
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/refint/tiendaCampus.dll
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.pdb
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/tiendaCampus.genruntimeconfig.cache
+/home/apolt01-012/Documents/c#/tiendaCampus/obj/Debug/net7.0/ref/tiendaCampus.dll
